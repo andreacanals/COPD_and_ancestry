@@ -4,8 +4,12 @@ Este repositorio incluye la base de datos y los códigos utilizados para los an�
 
 La base de datos está construida a partir de información pública disponible en las siguientes fuentes:
 
-https://deis.minsal.cl/  	 
-http://resultados.censo2017.cl/  	 
+https://deis.minsal.cl/
+
+http://resultados.censo2017.cl/
+
 http://genoma.med.uchile.cl/ancestry/ 
-https://epi.minsal.cl/encuesta-nacional-de-salud-2015-2016/    
+
+https://epi.minsal.cl/encuesta-nacional-de-salud-2015-2016/ 
+
 https://ediciones.uautonoma.cl/index.php/UA/catalog/download/6/11/22?inline=1
