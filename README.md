@@ -1,8 +1,8 @@
 # COPD_and_ancestry
 
-Este repositorio incluye la base de datos y los códigos utilizados para los análisis de datos presentados en el artículo "Relationship between Amerindian ancestry and Chronic Obstructive Pulmonary Disease in the Chilean population" elaborado por Vicente Silva, Lucía Cifuentes y Andrea Canals.
+This repository includes the database and codes used for the data analysis presented in the article “Association between Amerindian ancestry and Chronic Obstructive Pulmonary Disease in the Chilean population” by Vicente Silva, Lucía Cifuentes and Andrea Canals.
 
-La base de datos está construida a partir de información pública disponible en las siguientes fuentes:
+The database is constructed from public information available in the following sources:
 
 https://deis.minsal.cl/
 
